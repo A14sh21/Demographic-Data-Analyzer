@@ -31,7 +31,7 @@ This project computes the following insights:
 
 ##  Technologies Used
 
-- Python 3.x
+- Python 3
 - Pandas
-- Google Colab / Jupyter
+- Google Colab
 - CSV from UCI repository
